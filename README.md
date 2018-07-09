@@ -2,4 +2,4 @@
 
 sample changes to commit
 
-how about <change this line> these changes
+how about <more changes> these changes
